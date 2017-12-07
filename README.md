@@ -16,4 +16,11 @@ Add 2 new problems:
 	ReverseInteger
 	isNumberPalindrome
 
+_12/6/2017_:
+Add 3 new problems:
+	CountingBits
+	MaximumBinaryTree
+	SingleElementSortedArray
+	
+	
 _My code might not be the best one out there, but they are authentic and original._
