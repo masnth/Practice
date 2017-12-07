@@ -13,14 +13,14 @@ Add 3 new problems from leetcode.com:
 
 _12/4/2017_:
 Add 2 new problems:
-	ReverseInteger
-	isNumberPalindrome
+	ReverseInteger  
+	isNumberPalindrome  
 
 _12/6/2017_:
 Add 3 new problems:
-	CountingBits
-	MaximumBinaryTree
-	SingleElementSortedArray
+	CountingBits  
+	MaximumBinaryTree  
+	SingleElementSortedArray  
 	
 	
 _My code might not be the best one out there, but they are authentic and original._
