@@ -4,20 +4,20 @@ I use this repository to store my practice for coding questions. Right now, for 
 
 I also want to put some of my old projects in here for reference.
 
-_12/3/2017_: 
+_12/3/2017_:   
 Create two folder for problems I got from CodeFight and LeetCode so that it is more managable.  
-Add 3 new problems from leetcode.com:   
+Add 3 new problems from leetcode.com:    
     TwoSum  
     AddTwoNumber  
     LongestSubstringWithoutRepeatingCharacter  
 
-_12/4/2017_:
-Add 2 new problems:
+_12/4/2017_:  
+Add 2 new problems:  
 	ReverseInteger  
 	isNumberPalindrome  
 
-_12/6/2017_:
-Add 3 new problems:
+_12/6/2017_:  
+Add 3 new problems:  
 	CountingBits  
 	MaximumBinaryTree  
 	SingleElementSortedArray  
