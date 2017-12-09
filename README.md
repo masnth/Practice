@@ -22,5 +22,8 @@ Add 3 new problems:
 	MaximumBinaryTree  
 	SingleElementSortedArray  
 	
+_12/8/2017_:
+Add 1 new problem:
+	FindBottomLeftTreeValue
 	
 _My code might not be the best one out there, but they are authentic and original._
