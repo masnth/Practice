@@ -26,4 +26,13 @@ _12/8/2017_:
 Add 1 new problem:
 	FindBottomLeftTreeValue
 	
+_12/11/2017_:
+Create new folder _Database_ in LeetCode folder  
+Add 4 new Database problems:  
+	DuplicateEmail  
+	EmployeeEarningMoreThanTheirManagers
+	getNthHighestSalary
+	secondHighestSalary
+	
+
 _My code might not be the best one out there, but they are authentic and original._
