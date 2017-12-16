@@ -34,5 +34,11 @@ Add 4 new Database problems:
 	getNthHighestSalary
 	secondHighestSalary
 	
-
+_12/15/2017_:
+Add 3 new Algorithm problems:
+	RemoveDuplicates
+	ValidParentheses
+	LongestCommonPrefix
+	
+	
 _My code might not be the best one out there, but they are authentic and original._
