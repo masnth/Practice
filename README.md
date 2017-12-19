@@ -40,5 +40,11 @@ Add 3 new Algorithm problems:
 	ValidParentheses
 	LongestCommonPrefix
 	
+_12/18/2017_:
+Add new Algorithm problems:
+	MaximumSubarray
+	LengthOfTheLastWord
+	ThreeSum
+Add Matlab section
 	
 _My code might not be the best one out there, but they are authentic and original._
