@@ -47,4 +47,9 @@ Add new Algorithm problems:
 	ThreeSum
 Add Matlab section
 	
+_03/19/2019:
+I have been busy with my new job for a while,
+mostly learning SQL server with C#, but I am 
+planning to practice again soon.
+
 _My code might not be the best one out there, but they are authentic and original._
